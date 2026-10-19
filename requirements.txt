@@ -1,0 +1,5 @@
+reportlab==5.0.1
+markdown-it-py==4.2.0
+Pillow==13.0.0
+charset-normalizer==3.5.2
+mdurl==0.1.2

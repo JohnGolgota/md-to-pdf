@@ -1,0 +1,10 @@
+{
+  "company": "EMPRESA DE EJEMPLO",
+  "title": "API de clientes",
+  "subtitle": "Guía de integración · REST API",
+  "author": "Equipo de ingeniería",
+  "version": "1.0",
+  "header": "EMPRESA DE EJEMPLO | API de clientes",
+  "footer": "Confidencial · Documentación técnica",
+  "logos": ["logo-demo.png", "logo-partner-demo.png"]
+}
